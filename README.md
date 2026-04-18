@@ -59,7 +59,7 @@
   <a href="./Penetration%20Testing.pdf">
     <img src="https://img.shields.io/badge/Presentation-Download%20PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Presentation">
   </a>
-  <a href="./Assessment-Pentest%20(2).pdf">
+  <a href="./Assessment-Pentest.pdf">
     <img src="https://img.shields.io/badge/Guidelines-Download%20PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Guidelines">
   </a>
 </div>
